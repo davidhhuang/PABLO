@@ -1,4 +1,4 @@
-# PABLO
+# PABLO: Pretrained and Adapted BERT for Longitudinal Outcomes
 
 Code reference for the manuscript: Development and external validation of a pre-trained deep learning model for the primary prevention of non-accidental trauma (in preparation).
 
