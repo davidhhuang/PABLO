@@ -8,3 +8,4 @@ Code reference for the manuscript: Development and external validation of a pre-
 - [Finetune dataset preprocessing](preprocess/finetune_job.py)
 - [Pretraining notebook](models/pretrain_pipeline.ipynb)
 - [Finetuning notebook](models/finetune_pipeline.ipynb)
+- [ICD-10 codes for NAT](preprocess/NAT_ICD10_codes.csv)
